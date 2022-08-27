@@ -1,0 +1,17 @@
+module.exports = {
+  prefix: "!",
+  token: "OTk3NjU1OTIzNTYyNjUxNjQ4.Gmw5HP.9Ccin7yr64rem4dBel3_9hm-D_LFgcTe_xZDgo",
+  ChannelLogsBan: "1003640153677516821",
+  ChannelLogsUnban: "1003640153677516821",
+  ChannelLogsWarn: "1003640227052671106",
+  ChannelLogsUnwarn: "1003640227052671106",
+  ChannelLogsKick: "1003640183134101604",
+  ChannelLogsLock: "1003640315850264668",
+  ChannelLogsUnlock: "1003640315850264668",
+  ChannelLogsMute: "1003640276272807969",
+  ChannelLogsUnmute: "1003640276272807969",
+  ChannelLogsTempban: "1003640153677516821",
+  ChannelLogsMessageDelete: "1003640540081950830",
+  ChannelLogsMessageUpdate: "1003640491881013298",
+  ChannelLogsReport: "1003640345281691728",
+}
